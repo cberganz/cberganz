@@ -6,7 +6,6 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>&emsp;Skills</b>
-<br>
 
   ### 👨‍💻&emsp;Main Languages
   <p>
@@ -43,22 +42,16 @@
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
   </p>
-  <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **&emsp;My 42 curriculum**
-<br>
 
 ### 🚀&emsp;Side Projects
-
 | Project link | Description |  Languages/Techs | Final grade |
 |    :----     |    :----    |      :----:      |    :----:   |
 | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf_v2</a> | A benchmark my C skills after 1 year @42 | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | In progress.. |
 | <a href="https://github.com/cberganz/CodinGame">Codingame</a> | My solution for the CodinGame Spring Challenge 2022 | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | Legendary challenger |
 
-<br>
-
 ### 📚&emsp;Common Core Projects
-
 | Project link | Description |  Languages/Techs | Final grade |
 |    :----     |    :----    |      :----:      |    :----:   |
 | <a href="https://github.com/cberganz/ft_transcendence">ft_transcendence</a> | A full-stack infrastructure for an online multiplayer game | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> | In progress... |
@@ -78,18 +71,13 @@
 | BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> | 125/125 |
 | <a href="https://github.com/cberganz/libft">Libft</a> | My implementation of libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
 
-<br>
-
 ### 🧪&emsp;My 42 projects testers
-
 | Project link | Description | Languages/Techs  |
 |    :----     |    :----    |      :----:      |
 | <a href="https://github.com/cberganz/Push_swap_tester">Push_swap_tester</a> | A powerfull bash tester for your push_swap project @42 | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> |
 | <a href="https://github.com/cberganz/minishell_tester">Minishell_tester</a> | Use this tester to instantly destroy your Minishell project | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> |
 | <a href="https://github.com/cberganz/ft_printf_my_tester">ft_printf_tester</a> | A small tester for the mandatory part of ft_printf @42 | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 | <a href="https://github.com/cberganz/libft_my_tester">libft_tester</a> | A small tester for the first project of the common core @42 | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
-
-<br>
 
 <details>
   <summary>
