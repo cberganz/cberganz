@@ -53,12 +53,14 @@
   </summary>
 
   <h3>🚀&emsp;Side Projects</h3>
+  
   | Project link | Description |  Languages/Techs | Final grade |
   |    :----     |    :----    |      :----:      |    :----:   |
   | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf_v2</a> | A benchmark of my C skills after 1 year @42 | <img alt="C"     src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | In progress.. |
   | <a href="https://github.com/cberganz/CodinGame">Codingame</a> | My solution for the CodinGame Spring Challenge 2022 | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | Legendary challenger |
 
   <h3>📚&emsp;Common Core Projects</h3>
+  
   | Project link | Description |  Languages/Techs | Final grade |
   |    :----     |    :----    |      :----:      |    :----:   |
   | <a href="https://github.com/cberganz/ft_transcendence">ft_transcendence</a> | A full-stack infrastructure for an online multiplayer game | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> | In progress... |
@@ -79,6 +81,7 @@
   | <a href="https://github.com/cberganz/libft">Libft</a> | My implementation of libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
 
   <h3>🧪&emsp;My 42 projects testers</h3>
+  
   | Project link | Description | Languages/Techs  |
   |    :----     |    :----    |      :----:      |
   | <a href="https://github.com/cberganz/Push_swap_tester">Push_swap_tester</a> | A powerfull bash tester for your push_swap project @42 | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> |
