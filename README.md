@@ -57,7 +57,7 @@
   
   | Project link | Description |  Languages/Techs | Final grade |
   |    :----     |    :----    |      :----:      |    :----:   |
-  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf_v2</a> | A benchmark of my C skills after 1 year @42 | <img alt="C"     src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | In progress.. |
+  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf_v2</a> | A benchmark of my C skills after 1 year @42 | <img alt="C"     src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/bootcamp_python">bootcamp_python</a> | An introduction to python programming | <img alt="python"     src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> | In progress.. |
   | <a href="https://github.com/cberganz/CodinGame">Codingame</a> | My solution for the CodinGame Spring Challenge 2022 | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | Legendary challenger |
 
@@ -77,7 +77,7 @@
   | <a href="https://github.com/cberganz/Push_swap">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/Minitalk">Minitalk</a> | Using unix signals to send messages between a server and a client | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/so_long">So_long</a> | A graphical introduction project using an educative library | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf</a> | My implementation of C printf | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/cberganz/ft_printf_v2_remastered">ft_printf</a> | My implementation of C printf | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/get_next_line">get_next_line</a> | A C function to get lines from a file descriptor using a buffer size | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/libft">Libft</a> | My implementation of libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
