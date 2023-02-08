@@ -5,7 +5,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
-<details>
   <summary>
     <h2>&emsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>&emsp;Skills</b></h3>
   </summary>
@@ -43,12 +42,10 @@
   
   <h3>❤️&emsp;My Setup</h3>
   <p>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
   </p>
-</details>
 
-<details>
   <summary>
     <h2>&emsp;<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>&emsp;My 42 curriculum</h2>
   </summary>
@@ -65,7 +62,7 @@
   
   | Project link | Description |  Languages/Techs | Final grade |
   |    :----     |    :----    |      :----:      |    :----:   |
-  | <a href="https://github.com/cberganz/ft_transcendence">ft_transcendence</a> | A full-stack infrastructure for an online multiplayer game | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> | In progress... |
+  | <a href="https://github.com/cberganz/ft_transcendence">ft_transcendence</a> | A full-stack infrastructure for an online multiplayer game | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> | 100/100 |
   | <a href="https://github.com/cberganz/Webserv">Webserv</a> | A small HTTP protocol webserver from scratch | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/Inception">Inception</a> | A Docker LEMP Stack infrastructure | <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"> | 125/125 |
   | <a href="https://github.com/cberganz/ft_containers">ft_containers</a> | My own implementation of C++ containers : Stack, Vector, Map, Set | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 125/125 |
@@ -90,9 +87,7 @@
   | <a href="https://github.com/cberganz/minishell_tester">Minishell_tester</a> | Use this tester to instantly destroy your Minishell project | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> |
   | <a href="https://github.com/cberganz/ft_printf_my_tester">ft_printf_tester</a> | A small tester for the mandatory part of ft_printf @42 | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
   | <a href="https://github.com/cberganz/libft_my_tester">libft_tester</a> | A small tester for the first project of the common core @42 | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
-</details>
 
-<details>
   <summary>
     <h3>&emsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>&emsp;Github Stats</b></h3>
   </summary>
@@ -104,9 +99,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cberganz&show_icons=true&locale=en&theme=dark&hide_border=true" alt="cberganz" />
   </p>
   <br>
-</details>
 
-<details>
   <summary>
     <h3>&emsp;<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>&emsp;Get in touch</b></h3>
   </summary>
@@ -115,4 +108,3 @@
     <a href="https://linkedin.com/in/charles-berganza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles berganza" height="30" width="40" /></a>
   </p>
   <br>
-</details>
